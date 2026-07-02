@@ -52,4 +52,4 @@ def main():
    print(f"you are betting {bet} on {lines} lines. total bet is = {total_bet}")
    
 
-main() hello
+main() hey
